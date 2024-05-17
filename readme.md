@@ -47,20 +47,6 @@ The Shredder Safety Alert System is a Python-based application designed to enhan
     python hand_detection.py
     ```
 
-## Project Structure
-
-- `hand_detection.py`: Main script to run the hand detection and alert system.
-- `requirements.txt`: List of dependencies required to run the project.
-- `README.md`: Project documentation.
-
-## Dependencies
-
-Ensure you have the following dependencies installed, which are listed in `requirements.txt`:
-
-- TensorFlow
-- OpenCV
-- Numpy
-- Other dependencies required for TensorFlow Object Detection
 
 ## Contributing
 
